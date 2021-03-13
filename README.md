@@ -1,2 +1,2 @@
 # Algoritmos de Machine Learning 
- Curso de Machine Learning da MasterClass - Udemy
+ Curso introdutório de Machine Learning da MasterClass - Udemy
